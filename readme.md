@@ -59,7 +59,7 @@
 - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) - Audio transcription macOS app. (Freemium)
 - [Whisper Memos](https://apps.apple.com/app/id6443658039) - Audio transcription iOS app. (Freemium)
 - [FourYou](https://apps.apple.com/app/id1671616134) - Audio journal iOS app.
-- [Jojo Transcribe](https://apps.apple.com/app/apple-store/id1659864300) - Audio transcription macOS app.
+- [Jojo Transcribe](https://apps.apple.com/app/id1659864300) - Audio transcription macOS app.
 
 ## Web apps
 
