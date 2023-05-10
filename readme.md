@@ -69,7 +69,7 @@
 
 - [bigWav](https://bigwav.app) - Audio transcription and annotation tool.
 - [Free Podcast Transcription](https://freepodcasttranscription.com) - Runs locally in your browser.
-- [Gladia](https://www.gladia.io) - Hosted Whisper with realtime processing
+- [Gladia](https://www.gladia.io) - Transcription with real-time processing.
 
 ### Self-hosted
 
