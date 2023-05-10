@@ -60,7 +60,7 @@
 - [Whisper Memos](https://apps.apple.com/app/id6443658039) - Audio transcription iOS app. (Freemium)
 - [FourYou](https://apps.apple.com/app/id1671616134) - Audio journal iOS app.
 - [Jojo Transcribe](https://apps.apple.com/app/id1659864300) - Audio transcription macOS app.
-- [Buzz](https://github.com/chidiwilliams/Buzz) - Offline transcription and translation app.
+- [Buzz](https://github.com/chidiwilliams/Buzz) - Audio transcription and translation macOS app.
 
 ## Web apps
 
