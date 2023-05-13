@@ -77,6 +77,7 @@
 
 - [Subs AI](https://github.com/abdeladim-s/subsai) - Subtitle generation.
 - [WaaS](https://github.com/schibsted/WAAS) - GUI and API for Whisper.
+- [writeout.ai](https://github.com/beyondcode/writeout.ai) - Transcribe and translate your audio files
 
 ## CLI tools
 
