@@ -72,6 +72,7 @@
 - [bigWav](https://bigwav.app) - Audio transcription and annotation tool.
 - [Free Podcast Transcription](https://freepodcasttranscription.com) - Runs locally in your browser.
 - [Gladia](https://www.gladia.io) - Transcription with real-time processing.
+- [Audiotranscripciones.com](https://audiotranscripciones.com) - Transcribe podcasts and YouTube videos. Allows to generate texts with GPT4 and Whisper transcription. Focused on Spanish language quality.
 
 ### Self-hosted
 
