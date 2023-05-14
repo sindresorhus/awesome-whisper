@@ -75,6 +75,7 @@
 
 ### Self-hosted
 
+- [Whisper Dictation](https://github.com/themanyone/whisper_dictation) - Use whisper to type or issue comands to your computer.
 - [Subs AI](https://github.com/abdeladim-s/subsai) - Subtitle generation.
 - [WaaS](https://github.com/schibsted/WAAS) - GUI and API for Whisper.
 
