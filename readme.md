@@ -62,6 +62,7 @@
 - [Jojo Transcribe](https://apps.apple.com/app/id1659864300) - Audio transcription macOS app.
 - [Buzz](https://github.com/chidiwilliams/Buzz) - Audio transcription and translation macOS app.
 - [WhisperScript](https://store.getwavery.com/l/whisperscript) - Audio transcription macOS app. (Freemium · Electron)
+- [Audio Podium](https://apps.apple.com/app/id6449008295) - Audio/video management macOS app.
 
 ## Web apps
 
