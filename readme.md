@@ -63,7 +63,6 @@
 - [Buzz](https://github.com/chidiwilliams/Buzz) - Audio transcription and translation macOS app.
 - [WhisperScript](https://store.getwavery.com/l/whisperscript) - Audio transcription macOS app. (Freemium · Electron)
 - [Audio Podium](https://apps.apple.com/app/id6449008295) - Audio/video management macOS app.
-- [whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) - The portable ready to run binaries of Whisper & Faster-Whisper for Windows.
 
 ## Web apps
 
@@ -84,6 +83,7 @@
 
 - [yt-whisper](https://github.com/m1guelpf/yt-whisper) - YouTube subtitle generation.
 - [phonix](https://github.com/platisd/phonix) - Generate captions for videos.
+- [whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) - The portable ready to run binaries of Whisper & Faster-Whisper for Windows.
 
 ## Playgrounds
 
