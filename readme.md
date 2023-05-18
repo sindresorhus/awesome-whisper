@@ -83,7 +83,7 @@
 
 - [yt-whisper](https://github.com/m1guelpf/yt-whisper) - YouTube subtitle generation.
 - [phonix](https://github.com/platisd/phonix) - Generate captions for videos.
-- [whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) - The portable ready to run binaries of Whisper & Faster-Whisper for Windows.
+- [whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) - Standalone Windows executable for Whisper and Faster Whisper.
 
 ## Playgrounds
 
