@@ -73,6 +73,7 @@
 - [bigWav](https://bigwav.app) - Audio transcription and annotation tool.
 - [Free Podcast Transcription](https://freepodcasttranscription.com) - Runs locally in your browser.
 - [Gladia](https://www.gladia.io) - Transcription with real-time processing.
+- [NeuroSpell](https://neurospell.com/) - Dictaphone included in a Deep-Learning grammar auto-corrector in more than 30 languages.
 
 ### Self-hosted
 
