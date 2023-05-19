@@ -63,6 +63,7 @@
 - [Buzz](https://github.com/chidiwilliams/Buzz) - Audio transcription and translation macOS app.
 - [WhisperScript](https://store.getwavery.com/l/whisperscript) - Audio transcription macOS app. (Freemium · Electron)
 - [Audio Podium](https://apps.apple.com/app/id6449008295) - Audio/video management macOS app.
+- [karaok-AI](https://github.com/EtienneAb3d/karaok-AI) - Karaoke Player / Editor with automatic clip creation from any song file using vocals and lyrics extraction.
 
 ## Web apps
 
