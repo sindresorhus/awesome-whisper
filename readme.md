@@ -100,8 +100,6 @@
 
 ## Experimental
 
-- [WhisperHallu](https://github.com/chengsokdara/use-whisper) - Sound file preprocessing to optimize Whisper transcriptions without hallucinated texts.
-
 ## Articles
 
 - [Whispers of A.I.'s Modular Future](https://www.newyorker.com/tech/annals-of-technology/whispers-of-ais-modular-future) - The future of machine learning lies in adaptable and accessible open-source speech-transcription programs.
