@@ -73,6 +73,7 @@
 - [bigWav](https://bigwav.app) - Audio transcription and annotation tool.
 - [Free Podcast Transcription](https://freepodcasttranscription.com) - Runs locally in your browser.
 - [Gladia](https://www.gladia.io) - Transcription with real-time processing.
+- [Recos](https://recos.studio) - Podcast & audio transcription web app powered by whisper api.
 
 ### Self-hosted
 
