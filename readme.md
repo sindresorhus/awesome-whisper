@@ -64,7 +64,6 @@
 - [WhisperScript](https://store.getwavery.com/l/whisperscript) - Audio transcription macOS app. (Freemium · Electron)
 - [Audio Podium](https://apps.apple.com/app/id6449008295) - Audio/video management macOS app.
 - [superwhisper](https://superwhisper.com) - Global audio transcription macOS menu bar app.
-- [Meeper](https://github.com/pas1ko/meeper) - Your secretary for any in-browser conference. (Chrome app)
 
 ## Web apps
 
@@ -81,6 +80,7 @@
 - [Subs AI](https://github.com/abdeladim-s/subsai) - Subtitle generation.
 - [WaaS](https://github.com/schibsted/WAAS) - GUI and API for Whisper.
 - [writeout.ai](https://github.com/beyondcode/writeout.ai) - Laravel app to transcribe and translate audio files.
+- [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more for meetings and any browser tab. (Chrome app)
 
 ## CLI tools
 
