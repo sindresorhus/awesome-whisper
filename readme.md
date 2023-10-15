@@ -64,6 +64,7 @@
 - [WhisperScript](https://store.getwavery.com/l/whisperscript) - Audio transcription macOS app. (Freemium · Electron)
 - [Audio Podium](https://apps.apple.com/app/id6449008295) - Audio/video management macOS app.
 - [superwhisper](https://superwhisper.com) - Global audio transcription macOS menu bar app.
+- [Speech Note](https://github.com/mkiol/dsnote) - Speech Note Linux app that uses Whisper and faster-whisper to transcribe.
 
 ## Web apps
 
