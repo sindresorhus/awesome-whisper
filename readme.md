@@ -82,6 +82,7 @@
 - [WaaS](https://github.com/schibsted/WAAS) - GUI and API for Whisper.
 - [writeout.ai](https://github.com/beyondcode/writeout.ai) - Laravel app to transcribe and translate audio files.
 - [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more for meetings and any browser tab. (Chrome app)
+- [transcribee](https://github.com/bugbakery/transcribee) - An audio and video transcription SAAS.
 
 ## CLI tools
 
