@@ -71,7 +71,7 @@
 <!-- ### Hosted and self-hosted -->
 
 ### Hosted
-
+- [Swiftink.io](https://www.swiftink.io) - Instant transcription, any file, any length
 - [bigWav](https://bigwav.app) - Audio transcription and annotation tool.
 - [Free Podcast Transcription](https://freepodcasttranscription.com) - Runs locally in your browser.
 - [Gladia](https://www.gladia.io) - Transcription with real-time processing.
