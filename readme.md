@@ -65,6 +65,7 @@
 - [Audio Podium](https://apps.apple.com/app/id6449008295) - Audio/video management macOS app.
 - [superwhisper](https://superwhisper.com) - Global audio transcription macOS menu bar app.
 - [Speech Note](https://github.com/mkiol/dsnote) - Audio transcription Linux app.
+- [FridayGPT](https://www.fridaygpt.app) - Dictation macOS app powered by OpenAI API.
 
 ## Web apps
 
