@@ -106,6 +106,7 @@
 ### JavaScript
 
 - [use-whisper](https://github.com/chengsokdara/use-whisper) - React hook.
+- [NodeJs-Whisper](https://github.com/ChetanXpro/nodejs-whisper) - Nodejs Bindings for the CPU version of OpenAI's Whisper.
 
 ## Articles
 
