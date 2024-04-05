@@ -52,7 +52,7 @@
 - [whisper-openvino](https://github.com/zhuzilin/whisper-openvino) - Whisper running on OpenVINO.
 - [whisper.tflite](https://github.com/usefulsensors/openai-whisper) - Whisper running on TensorFlow Lite.
 - [Whisper variants](https://huggingface.co/models?other=whisper) - Various Whisper variants on Hugging Faces.
-- [Whisper-AT](https://github.com/YuanGongND/whisper-at) - Unified Speech and Non-Speech Audio Events Recogntion.
+- [Whisper-AT](https://github.com/YuanGongND/whisper-at) - Whisper that can recognize non-speech audio events in addition to speech, with less than 1% additional cost.
 
 ## Apps
 
