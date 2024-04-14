@@ -56,6 +56,7 @@
 
 ## Apps
 
+- [Vibe](https://thewh1teagle.github.io/vibe) - Audio transcription app for Windows, Linux, and macOS.
 - [Aiko](https://sindresorhus.com/aiko) - Audio transcription iOS and macOS app.
 - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) - Audio transcription macOS app. (Freemium)
 - [Whisper Memos](https://apps.apple.com/app/id6443658039) - Audio transcription iOS app. (Freemium)
