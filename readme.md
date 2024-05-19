@@ -68,6 +68,7 @@
 - [Speech Note](https://github.com/mkiol/dsnote) - Audio transcription Linux app.
 - [FridayGPT](https://www.fridaygpt.app) - Dictation macOS app powered by OpenAI API.
 - [EasyWhisper](https://easywhisper.io) - Windows and macOS app for audio transcription and speaker diarization. (Freemium)
+- [Vibe](https://github.com/thewh1teagle/vibe) - Audio transcription app for Windows/macOS/Linux.
 
 ## Web apps
 
