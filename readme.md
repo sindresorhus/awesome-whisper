@@ -44,7 +44,7 @@
 
 ## Whisper APIs
 
-- [Simplismart](https://www.simplismart.ai/) - Transcribe using the fastest cloud-agnostic Whisper implementation with speaker diarisation & VAD.
+- [Simplismart](https://www.simplismart.ai/) - Transcribe using the fastest cloud-agnostic inference engine for Whisper.
 - [Gladia](https://www.gladia.io) - Transcription with real-time processing.
 
 ## Model variants
