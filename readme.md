@@ -23,6 +23,7 @@
 ## Contents
 
 - [Official](#official)
+- [Whisper APIs](#whisper-apis)
 - [Model variants](#model-variants)
 - [Apps](#apps)
 - [Web apps](#web-apps)
@@ -40,6 +41,11 @@
 - [Introduction](https://openai.com/research/whisper)
 - [Source code](https://github.com/openai/whisper)
 - [White paper](https://cdn.openai.com/papers/whisper.pdf)
+
+## Whisper APIs
+
+- [Simplismart](https://www.simplismart.ai/) - Transcribe using the fastest cloud-agnostic Whisper implementation with speaker diarisation & VAD.
+- [Gladia](https://www.gladia.io) - Transcription with real-time processing.
 
 ## Model variants
 
@@ -72,12 +78,10 @@
 ## Web apps
 
 <!-- ### Hosted and self-hosted -->
-
-### Hosted
+### Hosted Apps
 
 - [bigWav](https://bigwav.app) - Audio transcription and annotation tool.
 - [Free Podcast Transcription](https://freepodcasttranscription.com) - Runs locally in your browser.
-- [Gladia](https://www.gladia.io) - Transcription with real-time processing.
 
 ### Self-hosted
 
