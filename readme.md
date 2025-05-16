@@ -53,6 +53,7 @@
 - [whisper.tflite](https://github.com/usefulsensors/openai-whisper) - Whisper running on TensorFlow Lite.
 - [Whisper variants](https://huggingface.co/models?other=whisper) - Various Whisper variants on Hugging Faces.
 - [Whisper-AT](https://github.com/YuanGongND/whisper-at) - Whisper that can recognize non-speech audio events in addition to speech.
+- [MediBeng-Whisper-Tiny](https://github.com/pr0mila/MediBeng-Whisper-Tiny) - Whisper to translate mixed Bengali-English speech into English for better analysis and record-keeping in healthcare.
 
 ## Apps
 
