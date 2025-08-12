@@ -56,6 +56,7 @@
 
 ## Apps
 
+- [Ito AI](https://github.com/heyito/ito) - AI voice dictation for Mac. (FOSS)
 - [Aiko](https://sindresorhus.com/aiko) - Audio transcription iOS and macOS app.
 - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) - Audio transcription macOS app. (Freemium)
 - [Whisper Memos](https://apps.apple.com/app/id6443658039) - Audio transcription iOS app. (Freemium)
