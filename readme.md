@@ -71,6 +71,7 @@
 - [Audio Note](https://audionote.app) - Real-time audio transcription on macOS and Windows. (Freemium · Electron)
 - [Whisper](https://github.com/woheller69/whisperIME) - Android app for transcription and translation. (FOSS)
 - [VoiceInk](https://github.com/Beingpax/VoiceInk) - Dictation and transcription macOS app. (FOSS)
+- [Ito AI](https://github.com/heyito/ito) - AI voice dictation for Mac. (FOSS)
 
 ## Web apps
 
