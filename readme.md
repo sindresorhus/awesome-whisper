@@ -57,6 +57,7 @@
 ## Apps
 
 - [Aiko](https://sindresorhus.com/aiko) - Audio transcription iOS and macOS app.
+- [aTrain](https://apps.microsoft.com/detail/9n15q44szns2) - Audio transcription Windows app.
 - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) - Audio transcription macOS app. (Freemium)
 - [Whisper Memos](https://apps.apple.com/app/id6443658039) - Audio transcription iOS app. (Freemium)
 - [FourYou](https://apps.apple.com/app/id1671616134) - Audio journal iOS app.
