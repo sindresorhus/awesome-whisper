@@ -70,6 +70,8 @@
 - [EasyWhisper](https://easywhisper.io) - Windows and macOS app for audio transcription and speaker diarization. (Freemium)
 - [Audio Note](https://audionote.app) - Real-time audio transcription on macOS and Windows. (Freemium · Electron)
 - [Whisper](https://github.com/woheller69/whisperIME) - Android app for transcription and translation. (FOSS)
+- [VoiceInk](https://github.com/Beingpax/VoiceInk) - Dictation and transcription macOS app. (FOSS)
+- [Ito AI](https://github.com/heyito/ito) - AI voice dictation for Mac. (FOSS)
 - [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - Dictation app for macOS (FOSS).
 
 ## Web apps
@@ -97,6 +99,7 @@
 - [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - Whisper command-line tool based on CTranslate2, compatible with the original.
 - [insanely-fast-whisper-cli](https://github.com/ochen1/insanely-fast-whisper-cli) - Achieve transcription speeds near 30x real-time with several optimizations.
 - [whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic speech recognition with speaker diarization.
+- [hns](https://github.com/primaprashant/hns) - On-device speech-to-text CLI using faster-whisper with automatic clipboard copy.
 
 ## Playgrounds
 
