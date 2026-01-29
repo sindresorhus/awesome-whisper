@@ -73,6 +73,7 @@
 - [VoiceInk](https://github.com/Beingpax/VoiceInk) - Dictation and transcription macOS app. (FOSS)
 - [Ito AI](https://github.com/heyito/ito) - AI voice dictation for Mac. (FOSS)
 - [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - Dictation app for macOS (FOSS).
+- [aTrain](https://github.com/JuergenFleiss/aTrain) - GUI transcription app for Windows, Debian and macOS (FOSS).
 
 ## Web apps
 
