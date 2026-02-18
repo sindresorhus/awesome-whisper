@@ -73,6 +73,7 @@
 - [VoiceInk](https://github.com/Beingpax/VoiceInk) - Dictation and transcription macOS app. (FOSS)
 - [Ito AI](https://github.com/heyito/ito) - AI voice dictation for Mac. (FOSS)
 - [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - Dictation app for macOS (FOSS).
+- [Lokas](https://lokas.app) - Record and transcribe your meetings in complete privacy ([FOSS](https://framagit.org/framasoft/lokas)).
 
 ## Web apps
 
@@ -84,6 +85,7 @@
 - [Free Podcast Transcription](https://freepodcasttranscription.com) - Runs locally in your browser.
 - [Gladia](https://www.gladia.io) - Transcription with real-time processing.
 - [Whisper-Web](https://github.com/PierreMesure/whisper-web) - Local transcription using WebGPU, with optimised fine-tuned models for several languages. (FOSS)
+- [Lokas](https://server.lokas.app/) - Transcribe your meetings in complete privacy ([FOSS](https://framagit.org/framasoft/lokas)).
 
 ### Self-hosted
 
@@ -91,6 +93,7 @@
 - [WaaS](https://github.com/schibsted/WAAS) - GUI and API for Whisper.
 - [writeout.ai](https://github.com/beyondcode/writeout.ai) - Laravel app to transcribe and translate audio files.
 - [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more for meetings and any browser tab. (Chrome app)
+- [Lokas](https://framagit.org/framasoft/lokas/server) - Transcribe your meetings in complete privacy (FOSS).
 
 ## CLI tools
 
