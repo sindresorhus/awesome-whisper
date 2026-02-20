@@ -72,7 +72,8 @@
 - [Whisper](https://github.com/woheller69/whisperIME) - Android app for transcription and translation. (FOSS)
 - [VoiceInk](https://github.com/Beingpax/VoiceInk) - Dictation and transcription macOS app. (FOSS)
 - [Ito AI](https://github.com/heyito/ito) - AI voice dictation for Mac. (FOSS)
-- [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - Dictation app for macOS (FOSS).
+- [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - Dictation app for macOS. (FOSS)
+- [Screenpipe](https://screenpi.pe) - 24/7 local screen and audio recording with AI search. (FOSS)
 
 ## Web apps
 
