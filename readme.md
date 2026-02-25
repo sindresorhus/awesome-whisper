@@ -75,6 +75,11 @@
 - [Ito AI](https://github.com/heyito/ito) - AI voice dictation for Mac. (FOSS)
 - [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - Dictation app for macOS. (FOSS)
 - [Screenpipe](https://screenpi.pe) - 24/7 local screen and audio recording with AI search. (FOSS)
+- [Unpod]( https://github.com/parvbhullar/unpod) - 24/7 Voice ai platform that uses transcribers like whisper to provide on call assistant
+
+🔗 Unpod Repository: https://github.com/parvbhullar/unpod
+
+This is an example of how OpenAI’s work (and the surrounding open-source community) directly enables developers to build practical, end-to-end Voice AI systems. I’m happy to share details or collaborate further if helpful.)pod
 
 ## Web apps
 
