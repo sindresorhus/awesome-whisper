@@ -123,7 +123,7 @@
 - [How to Run Whisper Speech Recognition Model](https://www.assemblyai.com/blog/how-to-run-openais-whisper-speech-recognition-model/) - Explains how to install and run the model, as well as providing a performance analysis comparing Whisper to other models.
 - [Create your own speech to text app using Flask](https://blog.paperspace.com/whisper-openai-flask-application-deployment/) - The tutorial demonstrates Whisper's speech-to-text model, with a demo on running it in a Gradient Notebook and a guide for setting up a Flask app with Gradient Deployments.
 - [Convert Podcasts to Text](https://betterprogramming.pub/openais-whisper-tutorial-42140dd696ee) - Tutorial on the Whisper API with Python for speech-to-text transcription, showcasing GPU's faster transcription and advanced technology.
-
+- [Offline Transcription generation With Whisper](https://medium.com/data-science-collective/implementing-whisper-openai-in-browser-for-offline-audio-transcription-adab61be7af7) - Tutorial to Setup Whisper OpenAI Offline Audio Transcription
 ## Videos
 
 - [Open AI's Whisper is Amazing!](https://www.youtube.com/watch?v=OCBZtgQGt1I) - Introduction to Whisper.
