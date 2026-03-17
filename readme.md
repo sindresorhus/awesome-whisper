@@ -75,6 +75,7 @@
 - [Ito AI](https://github.com/heyito/ito) - AI voice dictation for Mac. (FOSS)
 - [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - Dictation app for macOS. (FOSS)
 - [Screenpipe](https://screenpi.pe) - 24/7 local screen and audio recording with AI search. (FOSS)
+- [FnKey](https://github.com/evoleinik/fnkey) - Hold-to-dictate macOS menu bar app with Deepgram streaming and Groq Whisper backends. (FOSS)
 
 ## Web apps
 
