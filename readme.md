@@ -141,6 +141,7 @@
 
 - [Whisper+](https://www.oneai.com/speech-to-text) - Extension of the Whisper model which adds powerful features such as speaker identification custom vocabulary, summarization, and chapter generation.
 - [Replicate](https://replicate.com/openai/whisper) - Use Whisper running on Replicate.
+- [Whipscribe](https://whipscribe.com) - Hosted Whisper API with URL ingestion (YouTube, podcasts, direct links), speaker diarization, word timestamps, and txt/json/srt/vtt/docx output. Ships with an MCP server for Claude Desktop, Cursor, and Windsurf.
 
 ## Related lists
 
