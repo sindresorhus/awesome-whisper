@@ -71,6 +71,7 @@
 - [EasyWhisper](https://easywhisper.io) - Windows and macOS app for audio transcription and speaker diarization. (Freemium)
 - [Audio Note](https://audionote.app) - Real-time audio transcription on macOS and Windows. (Freemium · Electron)
 - [Whisper](https://github.com/woheller69/whisperIME) - Android app for transcription and translation. (FOSS)
+- [Off Grid](https://github.com/alichherawalla/off-grid-mobile-ai) - On-device AI assistant for iOS, Android, and Mac with voice transcription via whisper.cpp, plus chat, vision, and image generation. (FOSS)
 - [VoiceInk](https://github.com/Beingpax/VoiceInk) - Dictation and transcription macOS app. (FOSS)
 - [Ito AI](https://github.com/heyito/ito) - AI voice dictation for Mac. (FOSS)
 - [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - Dictation app for macOS. (FOSS)
