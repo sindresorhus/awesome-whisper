@@ -83,6 +83,7 @@
 ### Hosted
 
 - [bigWav](https://bigwav.app) - Audio transcription and annotation tool.
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI (Whisper-powered voice analysis → instrument generation).
 - [Free Podcast Transcription](https://freepodcasttranscription.com) - Runs locally in your browser.
 - [Gladia](https://www.gladia.io) - Transcription with real-time processing.
 - [Whisper-Web](https://github.com/PierreMesure/whisper-web) - Local transcription using WebGPU, with optimised fine-tuned models for several languages. (FOSS)
@@ -141,6 +142,8 @@
 
 - [Whisper+](https://www.oneai.com/speech-to-text) - Extension of the Whisper model which adds powerful features such as speaker identification custom vocabulary, summarization, and chapter generation.
 - [Replicate](https://replicate.com/openai/whisper) - Use Whisper running on Replicate.
+
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI
 
 ## Related lists
 
