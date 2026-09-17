@@ -74,7 +74,7 @@
 - [VoiceInk](https://github.com/Beingpax/VoiceInk) - Dictation and transcription macOS app. (FOSS)
 - [Ito AI](https://github.com/heyito/ito) - AI voice dictation for Mac. (FOSS)
 - [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - Dictation app for macOS. (FOSS)
-- [Screenpipe](https://screenpipe.com/) - Local screen and audio recording with Whisper transcription, searchable history, and MCP access for AI assistants. (Source-available)
+- [Screenpipe](https://screenpipe.com) - Local screen and audio recording with Whisper transcription. (Source-available)
 
 ## Web apps
 
